@@ -24,3 +24,7 @@ body {
     width: auto;
   }
 }
+
+::selection {
+  background: $color-green-2;
+}
